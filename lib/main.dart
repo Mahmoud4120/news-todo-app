@@ -111,8 +111,8 @@ class MyApp extends StatelessWidget {
                   unselectedIconTheme: IconThemeData(color: Colors.white),
                 ),
                 inputDecorationTheme: InputDecorationTheme(
-                  labelStyle: TextStyle(color: Colors.white70), // لون الـ Label في الوضع الليلي
-                  hintStyle: TextStyle(color: Colors.white70), // لون الـ Hint Text في الوضع الليلي
+                  labelStyle: TextStyle(color: Colors.white70),
+                  hintStyle: TextStyle(color: Colors.white70),
                   border: OutlineInputBorder(),
                   // focusedBorder: OutlineInputBorder(
                   //   borderSide: BorderSide(color: Colors.deepOrange),
